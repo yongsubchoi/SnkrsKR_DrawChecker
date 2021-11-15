@@ -1,10 +1,6 @@
 # SnkrsKR_DrawChecker
 나이키 코리아 드로우 결과 체크 프로그램
 
-# Snkrs_KR-DrawChecker
-
-Snkrs_KR-DrawChecker for README.md
-
 ## 개요
 Selenium, Chromedriver를 이용한<br> 
 나이키 코리아 드로우 응모결과 확인 프로그램.
@@ -18,8 +14,8 @@ Selenium, Chromedriver를 이용한<br>
 ### 실행 전 준비 
 * 본인의 크롬 브라우저의 버전과 맞는 크롬 드라이버 다운로드<br>
   - [크롬 드라이버 다운로드 링크](https://chromedriver.chromium.org/downloads)  
-* 크롬 드라이버를```Testdraw.py```,```discord_hooks.py```,```exe```와 같은 폴더 내에 다운로드 한다.
-* ```Testdraw.py```실행.
+* 크롬 드라이버를```DrawChecker.py```,```exe```와 같은 폴더 내에 다운로드 한다.
+* ```DrawChecker.py```실행.
 
 ## 실행 순서
 ### 1. 코드 실행 
