@@ -19,7 +19,7 @@ Selenium, Chromedriver를 이용한<br>
 
 ## 실행 순서
 ### 1. 코드 실행 
-```Testdraw.py```를 파이썬을 통해 실행한다.<br>
+```DrawChecker.py```를 파이썬을 통해 실행한다.<br>
 ### 2. 모듈 다운로드
 ```pip install 모듈명```을 파이썬 터미널을 통해 다운로드 한다.<br>
 ### 3. 계정 정보 입력
