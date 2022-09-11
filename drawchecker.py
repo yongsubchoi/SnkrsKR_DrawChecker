@@ -25,9 +25,9 @@ options.add_argument('--no-sandbox')
 driver = webdriver.Chrome(r'./chromedriver', options=options)
 
 #계정1
-def sendID1():
+def sendID1():wns4052@gmail.com
     xpath = driver.find_element_by_xpath('//*[@id="j_username"]')
-    xpath.send_keys("")
+    xpath.send_keys("Wns6084052@")
 
     xpath2 = driver.find_element_by_xpath('//*[@id="j_password"]')
     xpath2.send_keys("")
